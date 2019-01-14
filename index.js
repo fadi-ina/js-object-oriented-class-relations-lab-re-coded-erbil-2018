@@ -1,8 +1,7 @@
 // driver has many trips
 // passenger has many trips
 // trips
-//// passenger
-//// driver
+
 
 let store = { drivers: [], passengers: [], trips: [] };
 
